@@ -1,0 +1,13 @@
+h1, label , .new, input{
+  font-family: "mine";
+  src: url(/Moonchild.otf);
+  
+}
+button{
+  font-weight: bold;
+  letter-spacing: 0.2rem;
+  border: none;
+  cursor: pointer;
+  color: white;
+  padding: 1em 2em;
+}
